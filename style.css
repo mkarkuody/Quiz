@@ -1,0 +1,37 @@
+#headLine {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 200px;
+  text-align: center;
+  margin-bottom: 55px;
+}
+#p{
+    color: rgb(24, 23, 23);
+    text-align: center;
+}
+#p:hover{
+
+    text-shadow: blue 1rem;
+    transform: 1rem;
+    pointer-events: stroke;
+}
+#start {
+margin-top: 40px;
+    margin-left: 40%;
+    font-size: 50px;
+    font-weight: bold;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    
+}
+.timer{
+    font-size: 30px;
+    margin-top: 4rem;
+    right: auto;
+    color: rgb(225, 243, 59);
+    background-color: cadetblue;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    width: fit-content;
+    margin-left: 75%;
+    
+}
